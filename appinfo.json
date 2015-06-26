@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dominic.wakeling@btinternet.com",
+    "longName": "CARD FACE",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "CARD FACE",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "11eef9fe-4b0a-4af5-be40-f831b6eddc9e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
