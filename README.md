@@ -1,2 +1,2 @@
 # Card_Face
-Pebble watchface
+Pebble watchface example, not published to the Pebble appstore.
